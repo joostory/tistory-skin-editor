@@ -1,0 +1,23 @@
+{
+  "name": "tistory-skin-editor",
+  "version": "0.0.1",
+  "description": "Tistory Skin Editor",
+  "main": "src/main/main.js",
+  "scripts": {
+    "test": "jest -u"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joostory/tistory-skin-editor.git"
+  },
+  "keywords": [
+    "tistory",
+    "electron"
+  ],
+  "author": "Joo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joostory/tistory-skin-editor/issues"
+  },
+  "homepage": "https://github.com/joostory/tistory-skin-editor#readme"
+}
